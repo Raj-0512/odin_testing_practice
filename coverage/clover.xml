@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1763043889135" clover="3.2.0">
+  <project timestamp="1763043889135" name="All files">
+    <metrics statements="24" coveredstatements="21" conditionals="8" coveredconditionals="7" methods="10" coveredmethods="9" elements="42" coveredelements="37" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="/home/raj/Documents/Practice Projects/odin_testing_practice/main.js">
+      <metrics statements="24" coveredstatements="21" conditionals="8" coveredconditionals="7" methods="10" coveredmethods="9"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="43" count="5" type="stmt"/>
+      <line num="44" count="5" type="stmt"/>
+      <line num="45" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="4" type="cond" truecount="3" falsecount="1"/>
+      <line num="49" count="4" type="stmt"/>
+      <line num="50" count="4" type="stmt"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="60" count="8" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
